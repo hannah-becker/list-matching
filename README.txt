@@ -1,0 +1,2 @@
+This script will compare a list of species against the NRW red list for plants (or some other list) and return listed species.
+Species entered under their plain binomial that are listed with subspecies or additional taxonomy (s.str., s.sl., agg., hybrids etc) are marked for manual review in the first column. For plants and the NRW list specifically, species not marked for review can be assumed to be correctly and exclusively assigned.
